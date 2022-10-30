@@ -20,4 +20,5 @@ int main()
     }
 
     cout << "누적된 값: " << total << "\n";
+    return 0;
 }
